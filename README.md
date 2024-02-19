@@ -65,9 +65,12 @@ https://www.kaggle.com/datasets/huzdaria/laptop-pricing
 5. And answer this business questions:
    
 a. How the average RAM GB per manufacturer ? which manufacturer has higher average RAM ?
+![business_case_a](https://github.com/axeltanjung/spark-laptop-pricing/assets/87402782/0f31c4fb-765a-4fb5-bed1-9c35b9e7eaf3)
 
 b. Please calculate the average screen size per Screen Type, and order it by average from higher to lowest.
+![business_case_b](https://github.com/axeltanjung/spark-laptop-pricing/assets/87402782/2457f552-f059-4d68-a388-40ca4e9d9051)
 
 c. Please do profiling by manufacturer and screen type, which manufacturer has more IPS Panel product, Full HD product, and so on by counting the record by those two columns.
+![business_case_c](https://github.com/axeltanjung/spark-laptop-pricing/assets/87402782/570da860-b581-4a74-bd5d-2592e09e1ad9)
 
 Assignment result: Please push code to Github repository and screen shoot the result of those 3 business questions.
