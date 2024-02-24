@@ -1,4 +1,4 @@
-## Business Cases
+## Business Case
 
 Supposed you working on Laptop Store, and you work as Data Engineer that should prepare data to the data warehouse. The Laptop Store has list of various laptop consists of:
 
